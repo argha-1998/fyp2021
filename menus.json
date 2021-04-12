@@ -1,0 +1,129 @@
+[{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2bea1"
+  },
+  "name": "5pc Smoky Red Chicken",
+  "image": "5pc_Smoky_Red_Chicken.png",
+  "price": "320",
+  "size": "Five Pieces"
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2bea2"
+  },
+  "name": "4pc Hot & Crispy Chicken",
+  "image": "4pc_Hot_&_Crispy_Chicken.png",
+  "price": "280",
+  "size": "Four Pieces"
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2bea3"
+  },
+  "name": "4pc Crispy Chicken + Popcorn",
+  "image": "4pc_Hot_&_Crispy_Chicken_With_Large_Popcorn.png",
+  "price": "450",
+  "size": "Large"
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2bea4"
+  },
+  "name": "Large Popcorn",
+  "image": "Large_Popcorn.png",
+  "price": "180",
+  "size": "Large"
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2bea5"
+  },
+  "name": "Medium Popcorn",
+  "image": "Medium_Popcorn.png",
+  "price": "130",
+  "size": "Medium"
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2bea6"
+  },
+  "name": "Medium Popcorn + French Fries",
+  "image": "Medium_Popcorn_&_French_Fries.png",
+  "price": "200",
+  "size": "Regular"
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2bea7"
+  },
+  "name": "4pc Hot wings",
+  "image": "4pc_Hot_wings.png",
+  "price": "120",
+  "size": "Four Pieces"
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2bea8"
+  },
+  "name": "3pc Boneless Strips",
+  "image": "3pc_Boneless_Strips.png",
+  "price": "120",
+  "size": "Three Pieces"
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2bea9"
+  },
+  "name": "Chicken Burger",
+  "image": "Chicken_Burger.png",
+  "price": "150",
+  "size": "Regular"
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2bea0"
+  },
+  "name": "Veg. Burger",
+  "image": "Veg_Burger.png",
+  "price": "110",
+  "size": "Regular"
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2be11"
+  },
+  "name": "Somky Red Rice Bowl",
+  "image": "Smoky_Red_Rice_Bowl.png",
+  "price": "150",
+  "size": "Regular"
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2be12"
+  },
+  "name": "Hot & Crispy Rice Bowl",
+  "image": "Hot_&_Crispy_Rice_Bowl.png",
+  "price": "150",
+  "size": "Regular"
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2be13"
+  },
+  "name": "Chicken Pepperoni Pizza",
+  "image": "Chicken_Pepperoni_Pizza.png",
+  "price": "350",
+  "size": "Medium"
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2be14"
+  },
+  "name": "Chicken Sausage Pizza",
+  "image": "Chicken_Sausage_Pizza.png",
+  "price": "310",
+  "size": "Medium"
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2be15"
+  },
+  "name": "Cheesy Corn Pizza",
+  "image": "Cheesy_Corn_Pizza.png",
+  "price": "270",
+  "size": "Medium"
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2be16"
+  },
+  "name": "Margherita",
+  "image": "Margherita.png",
+  "price": "270",
+  "size": "Medium"
+}]
